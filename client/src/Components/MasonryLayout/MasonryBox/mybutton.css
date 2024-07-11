@@ -1,0 +1,40 @@
+.mybutton
+{
+    border: 2px solid rgb(0, 0, 0);
+    padding: 3.9px;
+    width:120px;
+    color:rgb(0, 0, 0);
+    font-weight: 700;
+    cursor: pointer;
+    position: relative;
+    display: block;
+   
+}
+.mybutton2
+{
+  display: inline-flex;
+   
+}
+
+.mybutton:hover
+{
+  
+    padding: 5.1px;
+   
+   
+}
+.button2
+{
+ margin-top: -25px;
+
+position: relative;
+
+
+}
+.myinput{
+  
+    border: 2px solid rgb(0, 0, 0);
+   width: 240px;
+   position: relative;
+   font-weight: 600;
+ }

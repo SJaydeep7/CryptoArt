@@ -1,0 +1,19 @@
+.button {
+    padding: 14px 21px;
+    border-radius: 16px;
+    cursor: pointer;
+}
+.button.matrix {
+    background-color: #F535AA;
+    transition: .4s;
+    color : white;
+    font-weight: bold;
+}
+.button.matrix:hover {
+    background-color: white;
+    color : #F535AA;
+}
+.button.transparent {
+    background-color: transparent;
+    color: var(--white-100);
+}

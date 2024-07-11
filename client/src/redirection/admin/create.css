@@ -1,0 +1,388 @@
+.create {
+    background-color: #0e0e0e;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .create .overlap-wrapper {
+    background-color: #0e0e0e;
+    border: 1px none;
+    height: 1024px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .create .overlap {
+    height: 936px;
+    left: 0px;
+    position: relative;
+    top: 60px;
+    width: 1487px;
+  }
+  
+  .create .overlap-group {
+    height: 208px;
+    left: 0;
+    position: absolute;
+    top: 320px;
+    width: 751px;
+  }
+  
+  .create .text-wrapper {
+    color: #ffffff;
+    font-family: "Noto Sans-SemiBold", Helvetica;
+    font-size: 96px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .create .frame {
+    align-items: flex-start;
+    border: 4px solid;
+    border-color: #ffffff;
+    display: inline-flex;
+    gap: 10px;
+    left: 9px;
+    padding: 14px 24px;
+    position: absolute;
+    top: 128px;
+  }
+  
+  .create .div {
+    color: #ffffff;
+    font-family: "Noto Sans-DisplaySemiBold Italic", Helvetica;
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .create .overlap-group-2 {
+    height: 936px;
+    left: 735px;
+    position: absolute;
+    top: 0;
+    width: 652px;
+  }
+  
+  .create .ellipse {
+    background: linear-gradient(180deg, rgb(25.14, 0, 96.69) 0%, rgb(10.16, 27.48, 47.81) 100%);
+    border-radius: 151px;
+    height: 302px;
+    left: -310px;
+    position: absolute;
+    top: 0;
+    width: 302px;
+  }
+  
+  .create .ellipse-2 {
+    background: linear-gradient(180deg, rgb(0, 15.47, 96.69) 0%, rgb(10.16, 22.96, 47.81) 100%);
+    border-radius: 110px;
+    height: 220px;
+    left: 175px;
+    position: absolute;
+    top: 577px;
+    transform: rotate(-28.5deg);
+    width: 220px;
+  }
+  
+  .create .frame-wrapper {
+    -webkit-backdrop-filter: blur(53px) brightness(100%);
+    backdrop-filter: blur(53px) brightness(100%);
+    background: linear-gradient(180deg, rgba(191.25, 191.25, 191.25, 0.06) 0%, rgba(0, 0, 0, 0) 100%);
+    border: 1px solid;
+    border-color: transparent;
+    border-image: linear-gradient(to bottom, rgb(255, 255, 255), rgba(0, 0, 0, 0)) 1;
+    border-radius: 20px;
+    box-shadow: -8px 4px 5px #0000003d;
+    height: 698px;
+    left: -250px;
+    overflow: hidden;
+    position: absolute;
+    top: 53px;
+    width: 582px;
+  }
+  
+  .create .frame-2 {
+    align-items: center;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 53px;
+    left: 40px;
+    position: relative;
+    top: 97px;
+  }
+  
+  .create .frame-3 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 16px;
+    position: relative;
+  }
+  
+  .create .upper-section {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 14px;
+    position: relative;
+  }
+  
+  .create .login-text {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    position: relative;
+  }
+  
+  .create .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Noto Sans-SemiBold", Helvetica;
+    font-size: 36px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .create .p {
+    color: #ffffff;
+    font-family: "Noto Sans-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .create .credentials {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 25px;
+    position: relative;
+  }
+  
+  .create .div-wrapper {
+    align-items: center;
+    border: 1px solid;
+    border-color: #ffffff;
+    border-radius: 12px;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 10px;
+    padding: 14px 16px;
+    position: relative;
+    width: 500px;
+  }
+  
+ .create .text-wrapper-11 {
+    color: #ffffff;
+    background-color: transparent;
+    font-family: "Noto Sans-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 800;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+    cursor: pointer;
+   
+  }
+
+  .create .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Noto Sans-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .create .text-wrapper-9 {
+    color: #ffffff;
+    background-color: transparent;
+    font-family: "Noto Sans-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: 500px;
+  }
+  
+  .create .password-rem {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 12px;
+    position: relative;
+  }
+  
+  .create .login-bt-fp {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 12px;
+    justify-content: center;
+    position: relative;
+  }
+  
+  .create .login {
+    align-items: center;
+    background: linear-gradient(
+        180deg,
+        rgb(45.62, 76.4, 238) 0%,
+        rgb(33.5, 30.28, 191.25) 53.12%,
+        rgb(3.9, 15.19, 116.88) 100%
+    );
+    border-radius: 12px;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 10px;
+    justify-content: center;
+    padding: 14px 10px;
+    position: relative;
+    width: 400px;
+    margin-top: 20px;
+    left:50px;
+    cursor: pointer;
+  }
+  
+  .create .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Noto Sans-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .create .other-logins {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 12px;
+    position: relative;
+  }
+  
+  .create .or {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 20px;
+    position: relative;
+  }
+  
+  .create .line {
+    height: 2px;
+    position: relative;
+    width: 170px;
+  }
+  
+  .create .text-wrapper-5 {
+    color: #4c4c4c;
+    font-family: "Noto Sans-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .create .img {
+    flex: 0 0 auto;
+    position: relative;
+  }
+  
+  .create .frame-4 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 8px;
+    position: relative;
+  }
+  
+  .create .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "Noto Sans-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .create .customer-care {
+    align-items: center;
+    background: linear-gradient(180deg, rgba(97.75, 97.75, 97.75, 0) 0%, rgba(97.75, 97.75, 97.75, 0.07) 100%);
+    border-radius: 6px;
+    display: flex;
+    flex: 0 0 auto;
+    justify-content: space-between;
+    padding: 4px 6px;
+    position: relative;
+    width: 400px;
+  }
+  
+  .create .frame-5 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 10px;
+    position: relative;
+  }
+  
+  .create .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "Noto Sans-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .create .line-2 {
+    height: 2px;
+    left: 256px;
+    position: absolute;
+    top: 488px;
+    width: 575px;
+  }
+  

@@ -1,0 +1,20 @@
+{
+    "informations": [
+        {
+            "title": "Artist",
+            "number": 50,
+            "id": 1
+        },
+        {
+            "title": "Wallpapers",
+            "number": 200,
+            "id": 2
+        },
+        {
+            "title": "Users",
+            "number": 500,
+            "id": 3
+        }
+        
+    ]
+}

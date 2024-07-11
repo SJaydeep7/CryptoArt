@@ -1,0 +1,115 @@
+.desktop {
+  background-color: #0d0d0d;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.div-2 {
+  background-color:  #0d0d0d;
+  border: 1px none;
+  height: 1025px;
+  position: relative;
+  width: 1440px;
+}
+
+.frame-6 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  left: 539px;
+  position: absolute;
+  top: 50px;
+}
+
+.pricing {
+  color: #c72cae;
+  font-family: "Poppins-Bold", Helvetica;
+  font-size: 50px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+
+  position: relative;
+  width: fit-content;
+}
+
+.mypricings{
+
+    color: #c72cae;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    margin-right:250px;
+  
+  }
+
+
+.desktop .get-in-reasonable {
+  color: #ffffff;
+  font-family: "Poppins-Bold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.desktop .frame-7 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 32px;
+  left: 103px;
+  position: absolute;
+  top: 220px;
+}
+
+.desktop .card-instance {
+  padding: 30px 20px !important;
+  width: 400px !important;
+}
+
+.desktop .design-component-instance-node {
+  margin-bottom: unset !important;
+  margin-right: -1382px !important;
+  margin-top: -196.5px !important;
+}
+
+.desktop .card-2 {
+  margin-bottom: unset !important;
+  margin-right: -1382px !important;
+  margin-top: -238.5px !important;
+}
+
+.desktop .card-3 {
+  margin-bottom: unset !important;
+  margin-right: -1382px !important;
+  margin-top: -280.5px !important;
+}
+
+.desktop .card-4 {
+  opacity: 0 !important;
+}
+
+.desktop .frame-8 {
+  opacity: unset !important;
+}
+
+.desktop .frame-9 {
+  margin-bottom: unset !important;
+  margin-right: unset !important;
+}
+
+.desktop .frame-10 {
+  margin-bottom: unset !important;
+  margin-right: -950px !important;
+  margin-top: -280.5px !important;
+}

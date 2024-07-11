@@ -1,0 +1,92 @@
+.desktop {
+    background-color: #0d0d0d;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .desktop .div-2 {
+    background-color:  #0d0d0d;
+    border: 1px none;
+    height: 1025px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .desktop .frame-6 {
+    align-items: center;
+    display: inline-flex;
+    flex-direction: column;
+  
+    justify-content: center;
+      margin-right: 100px;
+   
+    top: 80px;
+  }
+  
+  .desktop .pricing {
+    color: #c72cae;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+   
+    margin-left:50px;
+   
+    
+  }
+  
+ 
+  .desktop .frame-7 {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 32px;
+    left: 103px;
+    position: absolute;
+    
+  }
+  
+  .desktop .card-instance {
+    padding: 30px 20px !important;
+    width: 400px !important;
+  }
+  
+  .desktop .design-component-instance-node {
+    margin-bottom: unset !important;
+    margin-right: -1382px !important;
+    margin-top: -196.5px !important;
+  }
+  
+  .desktop .card-2 {
+    margin-bottom: unset !important;
+    margin-right: -1382px !important;
+    margin-top: -238.5px !important;
+  }
+  
+  .desktop .card-3 {
+    margin-bottom: unset !important;
+    margin-right: -1382px !important;
+    margin-top: -280.5px !important;
+  }
+  
+  .desktop .card-4 {
+    opacity: 0 !important;
+  }
+  
+  .desktop .frame-8 {
+    opacity: unset !important;
+  }
+  
+  .desktop .frame-9 {
+    margin-bottom: unset !important;
+    margin-right: unset !important;
+  }
+  
+  .desktop .frame-10 {
+    margin-bottom: unset !important;
+    margin-right: -950px !important;
+    margin-top: -280.5px !important;
+  }
+  
